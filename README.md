@@ -12,7 +12,6 @@ Breve descrição sobre o que a aplicação faz. Exemplo: *Sistema desktop desen
 ## 🛠️ Tecnologias Utilizadas
 * **Python** (Linguagem de programação principal)
 * **Tkinter** (Biblioteca nativa para construção de interfaces gráficas - GUI)
-* **[Outra tecnologia/biblioteca, se houver, ex: SQLite / Pillow]**
 
 ---
 
